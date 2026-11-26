@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spielhandbuch
-parent: Second Edition
+parent: Zweite Ausgabe
 has_children: true
 nav_order: 1
 ---
