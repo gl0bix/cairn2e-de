@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Second Edition
+title: Zweite Ausgabe
 has_children: true
 nav_order: 9
 redirect_from: /wip/2e/
 ---
 
-# Second Edition
+# Zweite Ausgabe
