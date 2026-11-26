@@ -12,8 +12,3 @@ The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licen
 
 This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion take a look at the [submission guide](/submissions/submission-guide).
 
----
-
-This is a WIP repo, aimming to provide german translation and localisation.
-
-The Players guide is already translated and can be found [here](https://linuz.itch.io/cairn-2e-spielhandbuch)
