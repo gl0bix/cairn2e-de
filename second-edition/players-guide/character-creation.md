@@ -1,191 +1,185 @@
 ---
 layout: default
-title: Character Creation
-parent: Player's Guide
-grand_parent: Second Edition
+title: Spielcharaktererschaffung
+parent: Spielhandbuch
+grand_parent: Zweite Ausgabe
 ---
 
-# Character Creation 
+# Einen Charakter erstellen 
 
-## Roll or choose a Background
+## Würfel oder wähle einen Hintergrund
 
-- First, roll or choose from the [Backgrounds](#backgrounds) table below and note the page number. You will refer to that page for the next few steps.
-- Choose a name from the available list, then record each of your character's starting items. See [Inventory](#inventory) and [Inventory Slots](#inventory-slots) for how to record items. 
-- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](/second-edition/players-guide/marketplace) as well.
+- Würfel oder wähle zuerst einen Hintergrund aus der unten stehenden [Tabelle](#Hintergründe) aus und notiere dessen Seitennummer für die folgenden Schritte.
+- Wähle einen Namen aus der dort verfügbaren Liste und notiere die Startgegenstände deines Charakters (siehe [Inventar](#Inventar) und [Inventarplätze](#Inventarplätze).
+- Würfel auf allen Tabellen für deinen Hintergrund und schreibe dir die resultierenden Gegenstände und Fähigkeiten deines Charakters auf. 
+Manche Hintergründe verweisen auf die Tabellen im Abschnitt [Marktplatz](/second-edition/players-guide/marketplace).
 
-## Backgrounds
+## Hintergründe
 
-| **d20** | **Background**                                                                  |        |                                                                             |
-| :------- | :------------------------------------------------------------------------------- | :------ | :--------------------------------------------------------------------------- |
-| **1**   | [Aurifex](/second-edition/backgrounds/aurifex)               | **11** | [Half-Witch](/second-edition/backgrounds/half-witch)     |
-| **2**   | [Barber-Surgeon](/second-edition/backgrounds/barber-surgeon) | **12** | [Hexenbane](/second-edition/backgrounds/hexenbane)       |
-| **3**   | [Beast Handler](/second-edition/backgrounds/beast-handler)   | **13** | [Jongleur](/second-edition/backgrounds/jongleur/)        |
-| **4**   | [Bonekeeper](/second-edition/backgrounds/bonekeeper/)        | **14** | [Kettlewright](/second-edition/backgrounds/kettlewright) |
-| **5**   | [Cutpurse](/second-edition/backgrounds/cutpurse)             | **15** | [Marchguard](/second-edition/backgrounds/marchguard/)    |
-| **6**   | [Fieldwarden](/second-edition/backgrounds/fieldwarden/)      | **16** | [Mountebank](/second-edition/backgrounds/mountebank)     |
-| **7**   | [Fletchwind](/second-edition/backgrounds/fletchwind)         | **17** | [Outrider](/second-edition/backgrounds/outrider)         |
-| **8**   | [Foundling](/second-edition/backgrounds/foundling)           | **18** | [Prowler](/second-edition/backgrounds/prowler)           |
-| **9**   | [Fungal Forager](/second-edition/backgrounds/fungal-forager) | **19** | [Rill Runner](/second-edition/backgrounds/rill-runner)   |
-| **10**  | [Greenwise](/second-edition/backgrounds/greenwise/)          | **20** | [Scrivener](/second-edition/backgrounds/scrivener)       |
+| **W20** | **Hintergrund**                                              |        |                                                           |
+| :------ | :----------------------------------------------------------- | :----- | :-------------------------------------------------------- |
+| **1**   | [Aurifex](/second-edition/backgrounds/aurifex)               | **11** | [Kesselflicker](/second-edition/backgrounds/kettlewright) |
+| **2**   | [Bachläufer](/second-edition/backgrounds/rill-runner)        | **12** | [Knochenhüter](/second-edition/backgrounds/bonekeeper/)   |
+| **3**   | [Bestienbändiger](/second-edition/backgrounds/beast-handler) | **13** | [Kundschafter](/second-edition/backgrounds/outrider)      |
+| **4**   | [Feldscher](/second-edition/backgrounds/barber-surgeon)      | **14** | [Markgardist](/second-edition/backgrounds/marchguard/)    |
+| **5**   | [Feldwache](/second-edition/backgrounds/fieldwarden/)        | **15** | [Narr](/second-edition/backgrounds/jongleur/)             |
+| **6**   | [Fiederwind](/second-edition/backgrounds/fletchwind)         | **16** | [Scharlatan](/second-edition/backgrounds/mountebank)      |
+| **7**   | [Findelkind](/second-edition/backgrounds/foundling)          | **17** | [Schriftmeister](/second-edition/backgrounds/scrivener)   |
+| **8**   | [Fluchbrecher](/second-edition/backgrounds/hexenbane)        | **18** | [Stöberling](/second-edition/backgrounds/fungal-forager)  |
+| **9**   | [Grünfinger](/second-edition/backgrounds/greenwise/)         | **19** | [Taschendieb](/second-edition/backgrounds/cutpurse)       |
+| **10**  | [Halb-Hexe](/second-edition/backgrounds/half-witch)          | **20** | [Vagabund](/second-edition/backgrounds/prowler)           |
 
-## Attributes, Hit Protection, and Traits 
+## Attribute, Trefferschutzpunkte und Merkmale
 
-- Roll for your Characters **Attributes** and **Hit Protection**.
-- Roll for the rest  of your character's [Traits](#character-traits-d10), and then on the the [Bonds](#bonds) table.
-- Finally, roll for your character's **Age** (2d20+10). If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the other players. The Warden should incorporate Omens into the setting as they see fit.
+- Würfel die **Attribute** und **Trefferschutzpunkte** deines Charakters aus.
+• Erwürfel die übrigen [Merkmale](#Merkmale-(W10)) deines Charakters, und dann deine [Vorgeschichte](#Vorgeschichten).
+- Bestimme abschließend das **Alter** deines Charakters (2W20+10). Falls du den jüngsten Charakter hast, würfel auf der [Omen-Tabelle](#Omen) und lies das Ergebnis den anderen Spielern vor. Die Spielleitung sollte das Omen nach eigenem Ermessen in die Spielwelt einbauen.
 
-## Attributes
+## Attribute
 
-- Player Characters have just three Attributes: (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
-- Roll 3d6 for each of your character's **Attributes**, in order. You may then swap any two of the results. 
-- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
+- SC haben drei Attribute: **Stärke (ST)**, **Geschicklichkeit (GE)** und **Willenskraft (WK)**.
+- Würfel der Reihe nach 3W6 für jedes Attribut deines Charakters. Danach darfst du zwei beliebige Werte vertauschen.
+- Ein Charakter mit niedriger ST ist nicht notwendigerweise aussichtslos schwach; er kann immer noch versuchen, eine schwere Tür anzuheben oder einen tödlichen Kampf zu überleben! Er geht lediglich ein größeres Risiko ein.
 
-## Hit Protection
+## Trefferschutzpunkte 
+- Würfel 1W6, um die anfänglichen **Trefferschutzpunkte (TP)** deines Charakters zu bestimmen, welche die Fähigkeit widerspiegeln, Schaden im Kampf abzuwenden. TP stellen explizit nicht die Gesundheit eines SC dar.
+- Stattdessen werden sie außerhalb des Kampfes rasch wiederhergestellt (siehe [Heilung](/second-edition/players-guide/core-rules#Heilung)).
+- Falls ein Angriff die TP deines SC genau auf 0 bringt, musst du auf der [Narben-Tabelle](/second-edition/players-guide/core-rules#Narben)) würfeln.
 
-- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/second-edition/players-guide/core-rules#healing--recovery). 
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/second-edition/players-guide/core-rules#scars) table.
+## Inventar
+- SC haben insgesamt zehn Inventarplätze, können aber ohne Rücksäcke, Pferde oder Karren nur vier bis fünf Gegenstände angenehm tragen.
+- Jeder SC startet mit einem **Rucksack** mit sechs Plätzen für Gegenstände oder [Erschöpfung](/second-edition/players-guide/core-rules#Bedrängnis-&-Erschöpfung). Mit **Karren** (welche mit beiden Händen gezogen werden müssen), **Pferden** oder **Maultieren** können SC deutlich mehr Ausrüstung auf ihr Abenteuer mitnehmen. Auch **Mietlinge** können angeheuert werden, um Ausrüstung zu tragen.
+- Inventarplätze sind abstrakt und nur davon abhängig wie die SL die Umstände auslegt. Sind alle Plätze im Inventar belegt, werden die TP auf 0 reduziert. Ein SC kann nicht mehr als zehn Inventarplätze füllen.
 
-## Inventory
+### Inventarplätze
+- Die meisten Gegenstände nehmen einen Inventarplatz ein.
+• *Kleine* Gegenstände belegen keinen Inventarplatz, während *sperrige* Gegenstände **zwei** Plätze belegen.
+• Ein Geldbeutel mit weniger als 100 Goldstücken (gs) ist *klein* und nimmt keinen Inventarplatz ein.
 
-- Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
-- Each PC starts with a **Backpack** that can hold up to six slots of items or **Fatigue**. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
-- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. A character cannot fill more than ten slots.
+## Merkmale (W10)
 
-### Inventory Slots
+### Körper
+| **W10** | **Körper** | **W10** | **Körper**  |
+| :------ | :--------- | :------ | :---------- |
+| **1**   | athletisch | **6**   | groß        |
+| **2**   | bullig     | **7**   | kräftig     |
+| **3**   | drahtig    | **8**   | kurz        |
+| **4**   | dürr       | **9**   | schlaksig   |
+| **5**   | gebeugt    | **10**  | schwabbelig |
 
-- Most items take up one slot unless otherwise indicated. 
-- _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
-- A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
+### Haut
+| **W10** | **Haut**     | **W10** | ****      |
+| :------ | :----------- | :------ | :-------- |
+| **1**   | dunkel       | **6**   | rosig     |
+| **2**   | fleckig      | **7**   | tätowiert |
+| **3**   | gebräunt     | **8**   | trocken   |
+| **4**   | glänzend     | **9**   | weich     |
+| **5**   | pockennarbig | **10**  |           |
 
-## Character Traits (d10)
+### Frisur
+| **W10** | **Frisur** | **10** | **Frisur** |
+| :------ | :--------- | :----- | :--------- |
+| **1**   | dünn       | **6**  | kraus      |
+| **2**   | fettig     | **7**  | lang       |
+| **3**   | geflochten | **8**  | lockig     |
+| **4**   | gewellt    | **9**  | üppig      |
+| **5**   | kahl       | **10** |            |
 
-### Physique
+### Gesicht
 
-| **d10** | **Physique** | **d10** | **Physique** |
-| :--- | :--- | :--- | :--- |
-| **1** | Athletic | **6**  | Scrawny    |
-| **2** | Brawny   | **7**  | Short      |
-| **3** | Flabby   | **8**  | Statuesque |
-| **4** | Lanky    | **9**  | Stout      |
-| **5** | Rugged   | **10** | Towering   |
+1 blass 6 knochig 2 deformiert 7 länglich 3 eckig 8 perfekt 4 eingefallen 9 rattenhaft 5 kantig 10 schneidend
+| **W10** | **Gesicht** | **W10** | **Gesicht** |
+| :------ | :---------- | :------ | :---------- |
+| **1**   | blass       | **6**   | knochig     |
+| **2**   | deformiert  | **7**   | länglich    |
+| **3**   | eckig       | **8**   | perfekt     |
+| **4**   | eingefallen | **9**   | rattenhaft  |
+| **5**   | kantig      | **10**  |             |
 
-### Skin
+### Sprechweise
+| **W10** | **Sprechweise** | **W10** | **Sprechweise** |
+| :------ | :-------------- | :------ | :-------------- |
+| **1**   | brummend        | **6**   | kryptisch       |
+| **2**   | dröhnend        | **7**   | piepsig         |
+| **3**   | flüsternd       | **8**   | präzise         |
+| **4**   | formal          | **9**   | schroff         |
+| **5**   | heiser          | **10**  | stottern        |
 
-| **d10** | **Skin** | **d10** | **Skin** |
-| :--- | :--- | :--- | :--- |
-| **1** | Birthmarked | **6**  | Soft      |
-| **2** | Marked      | **7**  | Tanned    |
-| **3** | Oily        | **8**  | Tattooed  |
-| **4** | Rosy        | **9**  | Weathered |
-| **5** | Scarred     | **10** | Webbed    |
+### Kleidung
+| **W10** | **Kleidung**    | **W10** | **Kleidung** |
+| :------ | :-------------- | :------ | :----------- |
+| **1**   | altbacken       | **6**   | elegant      |
+| **2**   | altertümlich    | **7**   | fremdartig   |
+| **3**   | ausgefranst     | **8**   | ranzig       |
+| **4**   | blutverschmiert | **9**   | traditionell |
+| **5**   | dreckig         | **10**  |              |
 
-### Hair
+### Tugend
+| **W10** | **Tugend**    | **10** | **Tugend** |
+| :------ | :------------ | :----- | :--------- |
+| **1**   | ambitioniert  | **6**  | gesellig   |
+| **2**   | bescheiden    | **7**  | gnädig     |
+| **3**   | diszipliniert | **8**  | tapfer     |
+| **4**   | ehrenvoll     | **9**  | umsichtig  |
+| **5**   | gelassen      | **10** |            |
 
-| **d10** | **Hair** | **d10** | **Hair** |
-| :--- | :--- | :--- | :--- |
-| **1** | Bald    | **6**  | Long      |
-| **2** | Braided | **7**  | Luxurious |
-| **3** | Curly   | **8**  | Oily      |
-| **4** | Filthy  | **9**  | Wavy      |
-| **5** | Frizzy  | **10** | Wispy     |
+### Laster
+| **10** | **Laster**  | **W10** | ****         |
+| :----- | :---------- | :------ | :----------- |
+| **1**  | aggressiv   | **6**   | hinterlistig |
+| **2**  | eingebildet | **7**   | nachtragend  |
+| **3**  | faul        | **8**   | nervös       |
+| **4**  | feige       | **9**   | ungehobelt   |
+| **5**  | habgierig   | **10**  |              |
 
-### Face
+## Vorgeschichten
 
-| **d10** | **Face** | **d10** | **Face** |
-| :--- | :--- | :--- | :--- |
-| **1** | Bony      | **6**  | Perfect |
-| **2** | Broken    | **7**  | Rakish  |
-| **3** | Chiseled  | **8**  | Sharp   |
-| **4** | Elongated | **9**  | Square  |
-| **5** | Pale      | **10** | Sunken  |
-
-### Speech
-
-| **d10** | **Speech** | **d10** | **Speech** |
-| :--- | :--- | :--- | :--- |
-| **1** | Blunt   | **6**  | Gravelly   |
-| **2** | Booming | **7**  | Precise    |
-| **3** | Cryptic | **8**  | Squeaky    |
-| **4** | Droning | **9**  | Stuttering |
-| **5** | Formal  | **10** | Whispery   |
-
-### Clothing
-
-| **d10** | **Clothing** | **d10** | **Clothing** |
-| :--- | :--- | :--- | :--- |
-| **1** | Antique | **6**  | Frayed |
-| **2** | Bloody  | **7**  | Frumpy |
-| **3** | Elegant | **8**  | Livery |
-| **4** | Filthy  | **9**  | Rancid |
-| **5** | Foreign | **10** | Soiled |
-
-### Virtue
-
-| **d10** | **Virtue** | **d10** | **Virtue** |
-| :--- | :--- | :--- | :--- |
-| **1** | Ambitious   | **6**  | Honorable |
-| **2** | Cautious    | **7**  | Humble    |
-| **3** | Courageous  | **8**  | Merciful  |
-| **4** | Disciplined | **9**  | Serene    |
-| **5** | Gregarious  | **10** | Tolerant  |
-
-### Vice
-
-| **d10** | **Vice** | **d10** | **Vice** |
-| :--- | :--- | :--- | :--- |
-| **1** | Aggressive | **6**  | Lazy     |
-| **2** | Bitter     | **7**  | Nervous  |
-| **3** | Craven     | **8**  | Rude     |
-| **4** | Deceitful  | **9**  | Vain     |
-| **5** | Greedy     | **10** | Vengeful |
-
-## Bonds
-
-| **D20** | **Bond**                                                                                                                                                                                                                                                                                 |
-| :------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1**   | You inherited a **Single Gem** (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches, and a debt long thought forgotten would be called in.                                                                                       |
-| **2**   | A distant cousin left you a small inheritance. Take **20Gp** and a **Strange Compass** (_petty_) that always points towards something deep in the Wood.                                                                                                                              |
-| **3**   | You carry a **Portrait** in a locket (_petty_) of a past love who disappeared into the Wood long ago. Somehow you know that they are still alive.                                                                                                                                    |
-| **4**   | You found a **Tiny Crystal Prism** (_petty_) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the Wood. Sometimes you feel a presence looking back at you.                                                                         |
-| **5**   | You once freed a Naiad from a choked stream. In return, it gave you some **Silver Moss** (petty). Swallow it near water, and the creature will come, once, to repay its debt.                                                                                                                    |
-| **6**   | You inherited an old **Journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly written from the journal's perspective. The writing is crude but accurate.                                                                                       |
-| **7**   | You protect a long-dormant family secret. Take one half of an **Ancient Key** (_petty_). They say that if joined with its twin, it opens a **Gate** through any door.                                                                                                                    |
-| **8**   | You received a **Letter** (_petty_) detailing incontrovertible proof that your true parentage is that of Fae nobility. The note also indicates a date and location where you are to meet the letter's author, deep in the the Wood.                                                  |
-| **9**   | You owe a great debt to a member of the nobility and carry their **Signet Ring** (_petty_), which serves as proof of their protection as well as your obligation.                                                                                                                        |
-| **10**  | You consumed a **Mischievous Spirit** that wreaks havoc on your insides, demanding to be taken home, deep in the Wood. It occupies one slot but absorbs one **Fatigue** each day. It wants you alive (for now). |
-| **11**  | A roaming storyteller once spun you tales of great treasure hidden deep in the Wood. You thought it naught but fancy, till they gave you **A Rolled-Up Map** (_petty_) marked with an X.                                                                                             |
-| **12**  | During your travels, you met a dying hunter who asked you to deliver a message to their loved ones. Take a **Letter** (_petty_), sealed with tree sap. It is addressed only to the **Lord Of Winter**.                                                                                   |
-| **13**  | You found a wounded beast in the forest but chose to ignore it. You see it everywhere now, but only when you're alone. It looks sad but not angry. You cannot become _panicked_ when acting alone.                                                                                       |
-| **14**  | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **Bracelet** (_petty_) woven from twine and wildflowers.                                                                                                               |
-| **15**  | You crossed a creature of the Wood, and it cursed you with a **Stone Heart**. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.                                                                      |
-| **16**  | You carved a **Whistle** (_petty_) from an **Oak Lord's** branch. Your act did not go unnoticed. You cannot seem to rid yourself of the whistle either.                                                                                                                                  |
-| **17**  | The **Dawn Brigade** did your family a service, giving you a dried **Blood-Red Flower** (_petty_) as proof. When the flower turns white, it means the favor is owed.                                                                                                                     |
-| **18**  | An entertainer once visited your home, filling it with story and song. He left one day without a word, leaving behind only **A Miniature Lute**. Something rattles inside.                                                                                                               |
-| **19**  | A white crow appeared to you in a dream, holding a twig in its mouth. You awoke the next morning with the **Twig** (_petty_) in your hand. You believe it brings you luck. It smells faintly of sulfur.                                                                                  |
-| **20**  | One of your ancestors wronged a **Moss Witch**, who cursed their bloodline. Your visage causes mirrors to shatter. You've noticed that the shards can sometimes reveal illusions.                                                                                                        |
+| **W20** | **Vorgeschichte**                                                                                                                                                                                                                                                        |
+| :------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**   | Du hast einen **Edelstein** (500 gs, kalt und spröde) von einer lange verstorbenen Verwandten geerbt. Er kam mit einer Warnung einher: Vergeude deinen neu gefundenen Reichtum, und eine längst vergessene Schuld wird eingefordert werden.                              |
+| **2**   | Ein entfernter Cousin hat dir eine kleine Erbschaft hinterlassen. Nimm **20 gs** und einen **Seltsamen Kompass** (klein), der immer auf etwas tief im Wald zeigt.                                                                                                        |
+| **3**   | Du hast ein handgemaltes **Portrait** einer vergangenen Liebe in einem Medallion (*klein*) bei dir. Sie ist einst im Wald verschwunden, aber irgendwie weißt du, dass sie noch immer am Leben ist.                                                                       |
+| **4**   | Du hast ein **Winziges Kristallprisma** (*klein*) im Dreck verborgen gefunden. Wenn man es gegen das Licht hält, zeigt es Visionen von unbekannten Orten tief im Wald. Manchmal spürst du eine Präsenz, die deinen Blick erwidert.                                       |
+| **5**   | Du hast einmal eine Najade aus einem verdreckten Bach befreit. Zum Dank gab sie dir etwas **Silbermoos** (*klein*). Schlucke es in der Nähe von Wasser herunter, und das Wesen wird dir einmal zur Hilfe kommen, um seine Schuld zu begleichen.                          |
+| **6**   | Du hast ein altes, in Baumrinde gebundenes **Tagebuch** geerbt. Jeden Abend füllen sich seine Seiten mit den Vorkommnissen des Tages aus der Perspektive des Tagebuchs. Die Aufzeichnungen sind ungehobelt formuliert, aber akkurat.                                     |
+| **7**   | Du beschützt ein lange ruhendes Familiengeheimnis. Nimm eine Hälfte eines **Antiken Schlüssels**(*klein*). Es heißt, dass er ein Tor durch eine beliebige Tür öffnet, wenn man ihn mit seinem Gegenstück vereint.                                                        |
+| **8**   | Du hast einen **Brief** (*klein*) empfangen, der unbestreitbare Beweise darlegt, dass du von Feenadel abstammst. Der Brief enthält ein Datum und einen Ort tief im Wald, wo du den Autor treffen sollst.                                                                 |
+| **9**   | Du stehst bei einer Adelsfamilie tief in der Schuld und trägst ihren **Siegelring** (*klein*), der sowohl ihren Schutz als auch deine Verpflichtung anzeigt.                                                                                                             |
+| **10**  | Du hast einen **Boshaften Geist** verzehrt, der in deinem Inneren Chaos anrichtet und verlangt, tief in den Wald nach Hause gebracht zu werden. Er belegt einen **Inventarslot**, aber entfernt eine Erschöpfung pro Tag. Er braucht dich (noch) lebendig.               |
+| **11**  | Ein reisender Geschichtenerzähler hat dir großartige Märchen über tief im Wald versteckte Schätze erzählt. Zunächst hast du ihm nichts davon abgekauft, bis er dir eine **Zusammengerollte Karte** (*klein*) gab, auf der eine Stelle mit einem X markiert ist.          |
+| **12**  | Auf deinen Reisen hast du einen Jäger getroffen, der im Sterben lag. Er hat dich gebeten, seinen Hinterbliebenen eine Nachricht zu überbringen. Du hast einen **Brief** (*klein*), welcher mit Harz versigelt ist. Er ist lediglich an die **Winterkönigin** adressiert. |
+| **13**  | Du hast eine verwundete Bestie im Wald gefunden, aber sie nicht weiter beachtet. Nun siehst du sie überall, aber nur wenn du allein bist. Sie sieht traurig aus, aber nicht zornig. Du wirst nie in *Panik* geraten, wenn du alleine unterwegs bist.                     |
+| **14**  | Du hast einem Jugendfreund versprochen, ein seltenes Geschenk mitzubringen - etwas, das es nur ein Mal auf der Welt gibt. Nimm ein aus Zwirn und Wildblumen geflochtenes **Armband** (*klein*).                                                                          |
+| **15**  | Du hast eine Kreatur des Waldes hintergangen, und so hat sie dich mit einem **Steinherz** verflucht. Mit jedem Monat wächst der Stein um einen Inventarplatz. Bis deine Schuld beglichen ist, kannst du nicht vollständig sterben.                                       |
+| **16**  | Du hast eine **Pfeife** (*klein*) aus dem Zweig einer **Ureiche** geschnitzt. Deine Tat blieb nicht unbemerkt. Du scheinst diese Pfeife auch nicht einfach so loswerden zu können.                                                                                       |
+| **17**  | Die **Brigade der Morgenröte** hat deiner Familie einen großen Gefallen getan und dir als Beweis eine getrocknete **Blutrote Blume** (*klein*) gegeben. Sobald sich diese Blume weiß verfärbt, hast du den Gefallen zu erwidern.                                         |
+| **18**  | Ein Straßenkünstler hat einst in deiner Heimat seine Geschichten und Lieder zum Besten gegeben. Eines Tages ist er ohne ein Wort verschwunden und hat nur eine **Winzige Laute** hinterlassen. Etwas rasselt darin.                                                      |
+| **19**  | Im Traum ist dir eine weiße Krähe begegnet, die einen Zweig im Schnabel hielt. Am nächsten Morgen bist du mit dem **Zweig** (*klein*) in der Hand aufgewacht. Du glaubst, er bringe Glück. Er riecht leicht nach Schwefel.                                               |
+| **20**  | Einer deiner Vorfahren hat einer **Mooshexe** Unrecht getan, welche daraufhin seine Blutlinie verfluchte. Dein Antlitz lässt Spiegel zerspringen. Dir ist aufgefallen, dass die Scherben manchmal Illusionen offenbaren.                                                 |
 
 
-## Omens
+## Omen
 
-| **d20** | **Omen**                                                                                                                                                                                                                                           |
-| :------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1**   | The once rich waters of a life-giving river have turned black and putrid, tainting the land and sickening those who drink from it. A village elder points to some recent desecration as the cause, but most do not heed their words.               |
-| **2**   | It feels like winter has arrived too quickly this year, frost and snows making their appearance much earlier than expected. There is talk of a pattern to the frost found in windows, ponds, and cracks in the ground. It almost looks like a map. |
-| **3**   | A thick, unnatural fog has begun encroaching upon an ancient and holy grove. It is said to be the work of a great forest spirit, angered by nearby deforestation.                                                                                  |
-| **4**   | The night sky grows dimmer each evening, as if stars are disappearing one by one. Rumors of hellish creatures capturing farmers and pulling them into the Roots are spreading like wildfire. Village elders believe the two are connected.     |
-| **5**   | The songbirds of the Wood have fallen eerily silent as of late. Hunters claim that a spectral figure has been spotted wandering the forest, gazing longingly at anyone it encounters.                                                          |
-| **6**   | Strange, tear-shaped stones have been found throughout the region, sparking a "gold rush" of sorts for jewelers and thieves alike. The locals believe they are the tears of the earth itself, weeping for a great tragedy yet to come.             |
-| **7**   | Swarming pests gnaw away at the edges of dreams, and farmers speak of a loud buzzing sound emanating from deep within the Wood. They also say that the sound is getting closer.                                                                |
-| **8**   | There is a village known far and wide for its impressive “mother tree," said to shelter the town’s secrets in its boughs. Recently it has begun bleeding red sap, worrying the elders.                                                             |
-| **9**   | The moon turns a deep crimson, bathing the night in an eerie, blood-red light. Some say it heralds a time of chaos and strife, as the boundaries between the Wood and the mortal realm grow thin.                                              |
-| **10**  | Strange cracks have appeared in the night sky, revealing a swirling vortex of light and color. Some say that the divide between realms is at its weakest in centuries and fear what may emerge from the other side.                                |
-| **11**  | A night-blooming flower once thought extinct is sprouting up throughout the Wood. Its scent is intoxicating but also causes vivid nightmares.                                                                                                  |
-| **12**  | Local livestock have grown increasingly agitated and unmanageable as of late. An old shepherd says it is due to an unsettling howl that emanates from the Wood each full moon.                                                                 |
-| **13**  | Swarms of insects are fleeing from the Wood in droves, destroying any wooden structures they come across. The sound of their wings hum a familiar tune as they pass overhead, like a forgotten nursery rhyme.                                  |
-| **14**  | Hunters talk of a curse that befalls any who kill a beast with a streak of white fur: soon after, they are found dead in their homes. Each day, there are fewer and fewer creatures to hunt.                                                                    |
-| **15**  | Folks say that a faint laughter can be heard echoing out of wells all over the city, and that the echoes change to sobs at night.                                                                                                                  |
-| **16**  | The constellations have slowly started shifting in the night sky, forming unfamiliar patterns that have stargazers and sages perplexed. Even the animals seem disturbed.                                                                           |
-| **17**  | An ancient tree at the heart of a sleepy village has suddenly withered and died, despite showing no signs of disease. After its trunk was cut, a bloody hand was found in its core.                                                                |
-| **18**  | Statues have been weeping blood for months on end, and the wombs of the village have lain barren since.  A single child has been the only exception, hidden away by elders overcome with fear and dread.                                           |
-| **19**  | The local fauna is behaving oddly, displaying heightened aggression or fleeing the area entirely. Hunters talk of a shadowy figure that roams the Wood, calling to the animals.                                                                |
-| **20**  | Border towns have become riotous in recent weeks after multiple claims of a red-robed figure appearing in their children's dreams, uttering the same warning: A fire is coming, and it will consume everything.                                    |
+| **W20** | **Omen**                                                                                                                                                                                                                                                                                                         |
+| :------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**   | Das Wasser eines einst artenreichen und lebensspendenden Flusses hat sich tiefschwarz verfärbt. Nun verpestet es das Umland und verbreitet Krankheiten unter den Menschen. Eine Dorfälteste vermutet als Ursache Schändungen, die vor kurzem stattgefunden haben, doch die meisten schenken ihr keine Beachtung. |
+| **2**   | Der Winter scheint dieses Jahr sehr plötzlich eingebrochen zu sein - es friert und schneit viel früher als erwartet. Manche Leute wollen Muster im Frost an Fenstern oder zugefrorenen Seen erkannt haben. Sie sähen fast wie eine Karte aus.                                                                    |
+| **3**   | Ein dichter, unnatürlicher Nebel hat sich um einen uralten und sagenumwobenen Hain gelegt. Es heißt, dies sei das Werk eines großen Waldgeistes, den der Kahlschlag des umliegenden Forsts erzürnt.                                                                                                              |
+| **4**   | Der Nachthimmel verdunkelt sich mit jedem Tag mehr, als würden die Sterne Stück für Stück verschwinden. Gerüchte von teuflischen Kreaturen, die Bauern jagen und ins Wurzelreich verschleppen, verbreiten sich wie ein Lauffeuer. Dorfälteste vermuten, dass beides zusammenhängt.                               |
+| **5**   | Die Singvögel des Waldes sind vor kurzem verstummt. Jäger behaupten, eine schemenhafte Gestalt im Wald entdeckt zu haben, die jedem, dem sie begegne, sehnsüchtig hinterherstarre.                                                                                                                               |
+| **6**   | Sonderbare tränenförmige Steine sind in der Gegend aufgetaucht und haben sowohl bei Juwelieren als auch bei Dieben eine Art Goldrausch ausgelöst. Die Einheimischen glauben, dies seien die Tränen der Erde selbst, die ob eines heraneilenden Unheils weint.                                                    |
+| **7**   | Schwärme von Ungeziefer nagen an den Rändern von Träumen, und Bauern berichten von einem kraftvollen Brummen, das seinen Ursprung tief im Wald hat. Angeblich nähert sich das Geräusch.                                                                                                                          |
+| **8**   | Es gibt ein Dorf, das weit und breit für seinen beeindruckenden „Mutterbaum“ bekannt ist, welcher der Legende nach die Geheimnisse des Dorfes in seinem Geäst verbirgt. Vor kurzem begann der Baum, zur Beunruhigung der Dorfältesten, rotes Harz zu bluten.                                                     |
+| **9**   | Der Mond hat eine blutrote Farbe angenommen und taucht die Nacht in unheimliches, loderndes Licht. Manche deuten dies als Vorzeichen einer Zeit der Zwietracht und des Aufruhrs, da die Grenzen zwischen dem Wald und der Welt der Sterblichen durchlässig werden.                                               |
+| **10**  | Sonderbare Risse sind am Nachthimmel erschienen und offenbaren einen Wirbel aus Licht und Farben. Gelehrte erklären, die Kluft zwischen den Welten sei so schmal wie seit Jahrhunderten nicht mehr, und sorgen sich, was aus dem Jenseits herüberkommen könnte.                                                  |
+| **11**  | Eine in der Nacht aufblühende Blume, die man für ausgestorben hielt, gedeiht plötzlich überall im Wald. Ihr berauschender Geruch verursacht lebhafte Albträume.                                                                                                                                                  |
+| **12**  | Hiesiges Vieh verhält sich seit kurzem aufgewühlt und widerspenstig. Ein alter Schäfer sagt, es liege an dem verstörenden Heulen, das immer zu Vollmond vom Wald her tönt.                                                                                                                                       |
+| **13**  | Insektenschwärme entfliehen dem Wald in Scharen und zerstören alle hölzernen Bauwerke auf ihrem Weg. Ihre Flügel summen eine vertraute Melodie, wenn sie am Himmel vorbeifliegen. Wie ein vergessenes Kinderlied.                                                                                                |
+| **14**  | Jäger sprechen von einem Fluch, der alle trifft, die Bestien mit einer Strähne weißen Fells erlegen: kurz darauf werden sie tot in ihren Häusern aufgefunden. Jeden Tag gibt es weniger Kreaturen zu jagen.                                                                                                      |
+| **15**  | Leute sagen, dass in den Brunnen in der ganzen Stadt leises Gelächter vernommen werden kann und dass dieses Gelächter nachts in Seufzen umschlägt.                                                                                                                                                               |
+| **16**  | Sternbilder beginnen sich allmählich am Nachthimmel zu verschieben und neue, fremdartige Muster zu bilden. Die Weisen sind ratlos und selbst die Tiere wirken verunsichert.                                                                                                                                      |
+| **17**  | Der uralte Baum im Herzen eines verschlafenen Dorfes ist plötzlich verwelkt und abgestorben, obgleich er keine Anzeichen einer Krankheit trug. Als man ihn fällte, fand man eine blutverschmierte Hand in seinem Stamm.                                                                                          |
+| **18**  | Statuen weinen seit Monaten Tränen aus Blut; außerdem ist im Dorf seitdem bis auf eine Ausnahme kein Kind mehr zur Welt gekommen. Dieses Kind wird nun von den angstgeplagten Ältesten versteckt.                                                                                                                |
+| **19**  | Tiere in der Umgebung verhalten sich eigenartig, mitunter aggressiv oder ziehen fort. Jäger berichten von einer schattenhaften Gestalt, die durch den Wald zieht und nach den Tieren ruft.                                                                                                                       |
+| **20**  | Städte nahe der Grenze sind in Aufruhr, nachdem Kindern, übereinstimmenden Berichten zufolge, Gestalten in roten Roben im Traum erschienen sind und eine Warnung übermittelt haben: ein Feuer wird kommen und es wird alles verzehren.                                                                           |
+
