@@ -15,3 +15,5 @@ This is a game that values community contributions! If you'd like to submit an a
 ---
 
 The Players guide is already translated and can be found [here](https://linuz.itch.io/cairn-2e-spielhandbuch)
+
+Contributions are welcome, pls create a new branch from `dev`.
