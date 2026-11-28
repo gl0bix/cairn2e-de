@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Player's Guide
-parent: Second Edition
+title: Spielhandbuch
+parent: Zweite Ausgabe
 has_children: true
 nav_order: 1
 ---
 
-# Player's Guide
+# Spielhandbuch
 
-Cairn is an adventure game about exploring a dark and mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, adventures are tense and reward careful exploration, and combat is frantic and deadly.
+Cairn ist ein Abenteuerspiel von Yochai Gal. Erforsche einen dunklen und mysteriösen Wald voller unaussprechlicher Monstrositäten, seltsamer Kreaturen und Feen. Die Charaktererstellung ist schnell und zufallsbasiert, Abenteuer belohnen umsichtiges Erkunden und Kämpfe sind hektisch und tödlich.

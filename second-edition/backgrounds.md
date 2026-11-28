@@ -1,10 +1,10 @@
 ---
-summary: "Each background comes with its own tables for names, gear and details."
+summary: "Jeder Hintergrund enthält eigene Tabellen für Namen, Ausrüstung und Charakterdetails"
 layout: default
-title: Backgrounds
-parent: Second Edition
+title: Hintergründe
+parent: Zweite Ausgabe
 has_children: true
 nav_order: 2
 ---
 
-# Backgrounds
+# Hintergründe
