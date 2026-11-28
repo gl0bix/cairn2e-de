@@ -1,5 +1,3 @@
-marketplace
-
 ---
 layout: default
 title: Marktplatz
